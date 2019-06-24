@@ -1,4 +1,4 @@
-#dwm
+# dwm
 
 My fork of dwm with patches for configuration changes. I keep the source code itself 'vanilla' within git, 
 and maintain a set of patches that can be applied. This way it's easier to apply/remove them.
