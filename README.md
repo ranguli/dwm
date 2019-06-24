@@ -25,3 +25,6 @@ git apply patch
 ```bash
 cd ./dwm && make && sudo make install
 ```
+
+## Methodology
+The changes in both `dwm.c` and `config.h` made by patches should _not_ be tracked into version control. This gives us the flexibility to apply/remove patches freely.
