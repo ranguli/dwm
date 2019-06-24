@@ -1,2 +1,4 @@
 *.o
 dwm
+dwm.c
+config.h
